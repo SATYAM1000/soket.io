@@ -1,0 +1,51 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment variables file
+.env
+
+# compiled binary addons
+/build/Release
+
+# MongoDB
+/data/
+
+# Express.js generated files
+/build/
+
+# React.js
+/client/build/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VSCode
+.vscode/
+
+# WebStorm
+.idea/
+
+
+
+# Visual Studio Code
+.vscode/
+
+# npm
+npm-debug.log
+*.bak
+
